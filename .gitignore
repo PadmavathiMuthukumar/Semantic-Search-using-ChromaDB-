@@ -1,0 +1,2 @@
+venv/ # Virtual environment directory
+chroma/ # Chroma database directory
